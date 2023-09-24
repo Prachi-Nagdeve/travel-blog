@@ -8,7 +8,7 @@
     min-height: 780px;
     width: 100%;
     background-position: center;
-    background: url("./background.jpeg");
+    background: url(".\logo.png");
     background-size: cover;
     position: relative; 
 }
